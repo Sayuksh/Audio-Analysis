@@ -3,7 +3,7 @@
 This work is done as sound classification task based on the THE SOUND AI Playlist - "https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0"
 
 ## Audio examples
-<img src="https://github.com/Sayuksh/Audio-Analysis/blob/main/Screenshot%202024-04-22%20103538.png">
+<img src="https://github.com/Sayuksh/Audio-Analysis/blob/main/AUDIO SCREENSHOT.png.png">
 
 # Network configuration - 
 ## EAT-S - 
